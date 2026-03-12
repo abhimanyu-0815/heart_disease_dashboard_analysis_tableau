@@ -58,3 +58,16 @@ heart_disease_project/
 - **Visualizations**: Tableau Public (embedded iframes)
 
 ---
+
+## 🎥 Project Demonstration Video
+
+You can watch the full demonstration of the **Heart Disease Analysis Project** in the video below.
+
+🔗 **Click here to watch the demo:**  
+[Project Demonstration Video](https://drive.google.com/file/d/11qvnoEn0gTZMAb1edTeqOb-5kntA5jX4/view?usp=sharing)
+
+The video explains the working of the project, including:
+- Data visualization dashboard
+- Different health parameters analysis
+- Interactive charts and insights
+- Overall functionality of the web application
